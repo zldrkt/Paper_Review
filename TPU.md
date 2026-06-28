@@ -1,3 +1,5 @@
-# In-Datacenter Performance Analysis of a Tensor Processing Unit (2017 ISCA) 
+# In-Datacenter Performance Analysis of a Tensor Processing Unit
 
-**Authors:** N. P. Jouppi et al.
+**Publication Year:** 2017  
+**Venue:** ISCA  
+**Authors:** N. P. Jouppi et al.  
