@@ -1,3 +1,5 @@
-# EIE: Efficient Inference Engine on Compressed Deep Neural Network (2016 ISCA) 
+# EIE: Efficient Inference Engine on Compressed Deep Neural Network
 
-**Authors:** S. Han et al.
+**Publication Year:** 2016  
+**Venue:** ISCA  
+**Authors:** S. Han et al.  
