@@ -1,3 +1,5 @@
-# Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks (2016 ISCA) 
+# Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks
 
-**Authors:** Y. H. Chen et al.
+**Publication Year:** 2016  
+**Venue:** ISCA  
+**Authors:** Y. H. Chen et al.  
