@@ -1,6 +1,4 @@
-# Paper_Review
-
-## Paper List
+# Paper List
 
 | Year | Venue | Title (Review Link) | Authors | Core Topic | Status |
 | :--- | :--- | :--- | :--- | :--- | :---: |
